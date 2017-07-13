@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * Created by ruchitmehta
  * https://www.interviewbit.com/problems/prettyprint/
- * 
+ *
  */
 public class PrettyPrint {
 
